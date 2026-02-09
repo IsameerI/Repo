@@ -8,4 +8,4 @@ main =
 
 myFunc1 x = x*10
 myFunc2 x = x*2
-myfunc3 = "Hello, this is 3rd Func"
+myFunc3 = "Hello, this is 3rd Func"
